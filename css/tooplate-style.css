@@ -327,7 +327,7 @@ b, strong {
 }
 .timeline-wrapper:before {
   content: "";
-  background: #474559;
+  background: #4c4b63;
   width: 3px;
   height: 100%;
   position: absolute;
@@ -567,4 +567,31 @@ b, strong {
     display: inline-block;
     vertical-align: top;
   }
+}
+
+/* Estilos para los botones de filtro */
+.filters {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.filter-btn {
+  padding: 10px 20px;
+  background-color: #f0f0f0;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border-radius: 5px;
+  text-align: left;
+}
+
+.filter-btn:hover {
+  background-color: #dcdcdc;
+}
+
+.filter-btn.active {
+  background-color: #007bff;
+  color: #fff;
 }
