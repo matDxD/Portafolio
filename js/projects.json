@@ -39,6 +39,19 @@
         "images/project/C/C5.png"        
             
         ]
+      },
+      "5": {
+        "title": "Gestor de ventas ",
+        "description": "Este es un proyecto para la tienda de animales HIKI el cual valida el tipo de usuario para mostrar la interfaz de administrador o de vendedor, donde administrador le permite manejar los elementos de un CRUD con consultas personalizadas y vendedor, le permite realizar busquedas complejas, asi como realizar la ventas de forma dinamica con la base de datos",
+        "technologies": "java",
+        "link": "https://github.com/Paraquito07/Hiki",
+        "images": [ 
+        "images/project/Java/java2.png",
+        "images/project/Java/java3.png",
+        "images/project/Java/java4.png"
+           
+            
+        ]
       }
   }
   
