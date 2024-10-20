@@ -1,0 +1,44 @@
+{
+    "1": {
+      "title": "Proyecto 1",
+      "description": "Este proyecto trata sobre Python...",
+      "technologies": "Python, Flask, SQL",
+      "link": "https://github.com/project1",
+      "image": ["https://via.placeholder.com/300x200"]
+    },
+    "2": {
+      "title": "Proyecto 2",
+      "description": "Este es un proyecto avanzado de Python...",
+      "technologies": "Python, Django, PostgreSQL",
+      "link": "https://github.com/project2",
+      "image": [ "https://via.placeholder.com/300x200"]
+    },
+    "3": {
+      "title": "Crud para peluqueria en PHP",
+      "description": "El proyecto valida el tipo de usuario entre administrador y usuario; mostrando una interface segun el usuario, y permite realizar los procesos basicos de un crud desde el administrador y en la vista del usuario le permite agendar citas ",
+      "technologies": "PHP,js,SQL,css",
+      "link": "https://github.com/matDxD/CrudPeluqueriaPHP",
+      "images": [ 
+        "images/project/php/php3.png",
+        "images/project/php/php2.png",
+        "images/project/php/php4.png",
+        "images/project/php/php5.png",
+        "images/project/php/php6.png"
+
+      ]
+    },
+    "4": {
+        "title": "Crud Peluqueria",
+        "description": "Este es un proyecto elaborado en ASP.NET framework y C# el cual posee un crud para agendar citas y validar la informacion",
+        "technologies": "ASP.NET, C#, SQL",
+        "link": "https://github.com/matDxD/ProyectoPeluqueria",
+        "images": [ 
+        "images/project/C/C.png",
+        "images/project/C/C4.png",
+        "images/project/C/C3.png",
+        "images/project/C/C5.png"        
+            
+        ]
+      }
+  }
+  
